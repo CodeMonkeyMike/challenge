@@ -1,0 +1,18 @@
+Challenge #1
+From the terminal in this folder
+cd challenge1
+php -S localhost:8000
+
+NOTE: run all curl requests on the URL "localhost:8000"
+
+Challenge #2
+From the terminal in this folder
+node challenge2.js prices.txt 2000
+
+NOTE: replace prices.txt with price list of choice and number with gift card price
+
+Challenge #3
+From the terminal in this folder
+node challenge3.js 10X1010X
+
+NOTE: replace 10X1010X with input of choice

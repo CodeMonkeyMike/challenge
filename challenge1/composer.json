@@ -1,0 +1,20 @@
+{
+    "name": "Challenge 1",
+    "authors": [
+        {
+            "name": "Mike Zipf",
+            "email": "michael.zipf@gmail.com"
+        }
+    ],
+    "require": {
+        "php": ">=7.0.0",
+        "mthenw/nosqlite": "*@stable",
+        "symfony/http-foundation": "*@stable",
+        "symfony/routing": "*@stable"
+    },
+    "autoload": {
+        "psr-4": {
+            "Challenge\\": "src/"
+        }
+    }
+}
